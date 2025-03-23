@@ -1,0 +1,356 @@
+RestaurantID,RestaurantName,Type,Size,Cuisine,Location,Country,TaxApplicable,Status
+R001,"Griffiths, Cox and Smith",Fine Dining,26,British,"819 Higgins course
+East Leanne
+B8D 3TY",UK,VAT,Active
+R002,Barker-Bailey,Fast Food,55,Chinese,"Flat 42n
+Warner light
+West Leighview
+W8 6DX",UK,VAT,Under Maintenance
+R003,Norton-Hurst,Bistro,42,Japanese,"103 Robinson walk
+Port Oliver
+FY75 5QH",UK,VAT,Active
+R004,"Phillips, Cross and Miah",Fine Dining,43,Thai,"7 Dixon route
+Lake Victor
+L0 6LD",UK,VAT,Active
+R005,Johnston PLC,Bistro,174,Italian,"767 Arthur dam
+Lake Chelsea
+M9G 5JF",UK,VAT,Under Maintenance
+R006,"Hughes, Davey and Taylor",Fast Food,186,Japanese,"691 Palmer mountain
+Andreatown
+SR1X 5EN",UK,VAT,Active
+R007,Steele-Harper,Buffet,170,British,"148 Carl landing
+New Melanie
+N7 1QN",UK,VAT,Active
+R008,Tomlinson PLC,Fast Food,198,Japanese,"718 Scott shoals
+Mayburgh
+NG9 3XH",UK,VAT,Inactive
+R009,"Webster, Turner and Brooks",Café,59,Thai,"Flat 3
+Philip junction
+New Andreabury
+L0B 3DB",UK,VAT,Inactive
+R010,Bruce-Smith,Fine Dining,43,Japanese,"299 Smith mountains
+Batesville
+KY5P 7BE",UK,VAT,Active
+R011,Ahmed LLC,Café,108,British,"3 Davidson falls
+Bethanybury
+W8 0XA",UK,VAT,Active
+R012,Bennett and Sons,Buffet,157,Chinese,"Studio 7
+Joanne circle
+South Paul
+EX74 8UF",UK,VAT,Inactive
+R013,Doyle Inc,Fine Dining,161,British,"Flat 0
+Kerr walk
+North Natasha
+G1 3RE",UK,VAT,Under Maintenance
+R014,"Smith, Wright and Bibi",Bistro,112,Thai,"Flat 35p
+Byrne skyway
+Claremouth
+B7 1XH",UK,VAT,Under Maintenance
+R015,"Pritchard, McDonald and Wallace",Fine Dining,31,Thai,"Flat 27I
+Talbot valley
+Lake Andreaport
+CF2M 1XF",UK,VAT,Inactive
+R016,Bird-Kelly,Fine Dining,79,Chinese,"487 Howe vista
+North Ashleighchester
+BH0 2LG",UK,VAT,Inactive
+R017,"Williams, Cole and Moore",Café,136,Mexican,"280 Jackson drive
+Clarkeport
+ZE0 3JE",UK,VAT,Active
+R018,Porter-Young,Café,110,Thai,"2 Amy burg
+Lake Brett
+TR34 1RB",UK,VAT,Under Maintenance
+R019,Morton-Warren,Café,199,Chinese,"Flat 33b
+Tracey isle
+Brianview
+RM8 8PA",UK,VAT,Under Maintenance
+R020,Shaw LLC,Fast Food,156,Thai,"Flat 1
+Ward turnpike
+Amandahaven
+S9 4BS",UK,VAT,Active
+R021,Reynolds PLC,Buffet,117,British,"Studio 1
+Johnson shore
+Lake Cliffordhaven
+SG6 6NX",UK,VAT,Under Maintenance
+R022,Lucas Ltd,Bistro,76,Mexican,"946 Leon heights
+South Rosemary
+N7H 3WU",UK,VAT,Active
+R023,"Thompson, Cunningham and Lewis",Fast Food,28,Mexican,"4 Joe drive
+North Duncanfort
+E7G 6UR",UK,VAT,Inactive
+R024,Kennedy Ltd,Café,36,Thai,"32 Parker gateway
+South Aaronmouth
+NG8W 7ZW",UK,VAT,Under Maintenance
+R025,Burke-French,Café,74,Mediterranean,"Studio 4
+Kim harbor
+Johnsonview
+BS43 5PX",UK,VAT,Inactive
+R026,Khan and Sons,Buffet,56,British,"316 Butcher mountain
+Farmerchester
+ZE90 7AQ",UK,VAT,Active
+R027,Mitchell-Davis,Fast Food,163,British,"34 Jones loaf
+Aimeefurt
+DA7E 6YY",UK,VAT,Under Maintenance
+R028,"Payne, Graham and Kirk",Bistro,129,Japanese,"4 Mills motorway
+Tomfurt
+SY6 1UA",UK,VAT,Inactive
+R029,"Powell, Watkins and Stone",Fast Food,55,Mediterranean,"3 Michael road
+East Malcolm
+SG19 7LQ",UK,VAT,Active
+R030,Butler Ltd,Fine Dining,48,Indian,"19 Graeme ports
+Frostborough
+L1 9EY",UK,VAT,Under Maintenance
+R031,Ward Group,Fast Food,194,Japanese,"506 Webb lake
+Goddardchester
+M98 7SY",UK,VAT,Under Maintenance
+R032,Stanley-Smith,Fine Dining,118,Japanese,"Studio 3
+Pearce skyway
+Holtfort
+DE7 5LP",UK,VAT,Under Maintenance
+R033,Shaw-Harrison,Buffet,155,British,"313 Jones trace
+Lake Alice
+SP7R 1NJ",UK,VAT,Under Maintenance
+R034,Marshall-Rogers,Fine Dining,194,Chinese,"Studio 85
+Turner plaza
+Jaymouth
+HA4 1HP",UK,VAT,Under Maintenance
+R035,Reid Ltd,Bistro,88,Mexican,"7 Wood trace
+Oliverborough
+DY5 4AX",UK,VAT,Active
+R036,Robertson Inc,Café,131,Indian,"710 Jones mill
+Jeffreyton
+WN7 1RU",UK,VAT,Inactive
+R037,Mellor Ltd,Fine Dining,87,Indian,"9 Cunningham gateway
+New Helenbury
+S7H 9SN",UK,VAT,Under Maintenance
+R038,"Houghton, John and Cox",Fine Dining,180,British,"12 Kyle plaza
+East Paulchester
+SM97 0JN",UK,VAT,Under Maintenance
+R039,"Bird, Taylor and Hammond",Bistro,175,Thai,"Studio 93B
+Paige fork
+West Patrick
+B2 9YN",UK,VAT,Active
+R040,Harvey-Holmes,Café,61,Italian,"Studio 87
+Francis canyon
+Hunterview
+E3 4YB",UK,VAT,Under Maintenance
+R041,Jones Ltd,Café,145,Italian,"Flat 96
+Morgan mountains
+Michellemouth
+SG1 5SU",UK,VAT,Active
+R042,Adams-Matthews,Café,98,Thai,"Flat 5
+Turnbull trail
+Taylortown
+WR8R 0HW",UK,VAT,Active
+R043,Johnson-Morley,Fast Food,165,Chinese,"4 Gerard mill
+O'Neillbury
+CW4V 8SD",UK,VAT,Active
+R044,Chambers Inc,Buffet,37,Indian,"274 Allan orchard
+Smithside
+S39 1LS",UK,VAT,Active
+R045,McDonald-Buckley,Buffet,160,Indian,"Studio 49L
+Taylor mission
+Wardside
+S7F 3YR",UK,VAT,Inactive
+R046,Davis Group,Bistro,175,Japanese,"Studio 76y
+Olivia camp
+New Marie
+WR1 1WT",UK,VAT,Active
+R047,Wood Group,Bistro,196,Thai,"45 Brooks walk
+Francesside
+HD78 9DJ",UK,VAT,Under Maintenance
+R048,"Richardson, Hussain and Wilson",Café,122,Mexican,"Flat 1
+Thompson hills
+North Victorton
+HU5 2JW",UK,VAT,Inactive
+R049,Armstrong-James,Bistro,135,Chinese,"9 Bibi garden
+Walkerberg
+W47 0TN",UK,VAT,Active
+R050,"Kaur, Ford and Harding",Fast Food,36,Mexican,"Studio 47t
+Jacqueline walk
+Deanfurt
+N9E 0RL",UK,VAT,Active
+R051,Armstrong Ltd,Bistro,161,Thai,"Flat 39Z
+Lloyd field
+Josephineberg
+CB0M 0YQ",UK,VAT,Under Maintenance
+R052,"Clarke, Walker and Rose",Fast Food,21,Chinese,"2 Hill groves
+West Hayley
+SW5 7DF",UK,VAT,Under Maintenance
+R053,Taylor Ltd,Fine Dining,78,Chinese,"Flat 6
+Arthur plain
+South Lauraview
+S5B 7AZ",UK,VAT,Active
+R054,"Mills, Morrison and Miah",Café,38,Thai,"Studio 61i
+Ian hollow
+Clarkbury
+G6H 8SY",UK,VAT,Inactive
+R055,"Wood, Young and Waters",Buffet,74,Indian,"Flat 05n
+Williams freeway
+Nigelstad
+N0G 3ET",UK,VAT,Under Maintenance
+R056,Adams Ltd,Bistro,167,Mediterranean,"32 Brian village
+New Robin
+N29 4FF",UK,VAT,Active
+R057,"Smith, Coleman and Benson",Buffet,124,Thai,"5 Joan islands
+East Arthurton
+S81 7TQ",UK,VAT,Active
+R058,"Wright, Price and Morton",Fine Dining,188,Japanese,"Studio 0
+Catherine vista
+Pickeringville
+SP71 5ZF",UK,VAT,Inactive
+R059,Clarke PLC,Buffet,125,Mediterranean,"Studio 84
+Lowe meadows
+Port Ritaville
+SA8Y 6TJ",UK,VAT,Under Maintenance
+R060,Cook-Price,Fine Dining,192,Chinese,"65 Patel drives
+Riceland
+S1 2XB",UK,VAT,Active
+R061,"Andrews, Moore and Davies",Buffet,106,Chinese,"Studio 60s
+Parsons ports
+East Sylvia
+DT15 1LY",UK,VAT,Active
+R062,Gough PLC,Fast Food,68,Mediterranean,"Flat 2
+Campbell inlet
+Brucetown
+G96 2AD",UK,VAT,Active
+R063,"Hill, Patel and Price",Buffet,66,British,"Flat 59M
+Lee drives
+Port Marian
+E4 6UZ",UK,VAT,Inactive
+R064,Carroll-Stevens,Fast Food,39,Mediterranean,"Studio 1
+Davies ramp
+Hillport
+L6 0HN",UK,VAT,Under Maintenance
+R065,Perkins LLC,Fine Dining,32,Italian,"Flat 0
+Morris extensions
+South Stacey
+DY8V 1RB",UK,VAT,Active
+R066,Brown-Woodward,Fast Food,62,Japanese,"Studio 66
+Clark brooks
+Ronaldmouth
+HX1P 3SY",UK,VAT,Inactive
+R067,Barry-Byrne,Buffet,74,Japanese,"Flat 52
+Denise roads
+New Deniseborough
+HS2 1FL",UK,VAT,Active
+R068,Coleman and Sons,Fast Food,117,Italian,"779 Davies port
+Teresamouth
+W17 4LY",UK,VAT,Inactive
+R069,Parsons Inc,Café,136,British,"Studio 0
+Laura village
+Martinland
+S7K 7YH",UK,VAT,Inactive
+R070,Butler-Knight,Bistro,189,Mediterranean,"Flat 5
+Leanne rue
+North Louis
+LA7V 5QN",UK,VAT,Active
+R071,Hanson-Haynes,Fast Food,95,Thai,"Flat 5
+Nicole springs
+Abbottberg
+BT9 5NR",UK,VAT,Active
+R072,Wright Inc,Bistro,158,Italian,"Studio 52Q
+Leah skyway
+Buckleytown
+HA2 5UH",UK,VAT,Under Maintenance
+R073,Watkins and Sons,Café,34,Italian,"Flat 8
+Irene junction
+New Nicola
+G29 7BS",UK,VAT,Under Maintenance
+R074,Davies-Smith,Buffet,148,Indian,"Studio 73I
+Dylan valleys
+Cookeborough
+SK9 7NR",UK,VAT,Active
+R075,"Hill, Morgan and Warren",Bistro,40,Indian,"Flat 7
+Naylor cove
+West Jakeburgh
+LD8 6DJ",UK,VAT,Active
+R076,Young-Begum,Bistro,37,Thai,"85 Emma common
+Francistown
+CB5 2BN",UK,VAT,Inactive
+R077,Booth-Khan,Fine Dining,165,Thai,"Studio 01
+Douglas forge
+New Tina
+S1U 3NE",UK,VAT,Under Maintenance
+R078,Smith Ltd,Bistro,30,Chinese,"7 Julia passage
+Lake Gareth
+KW0 3YS",UK,VAT,Inactive
+R079,Adams Inc,Bistro,164,Mexican,"888 Janet well
+Thomasfurt
+EN0 1QJ",UK,VAT,Inactive
+R080,"Moss, Webb and Jackson",Fast Food,191,Mexican,"5 Bradley extensions
+Robinsonfort
+DE2B 0NH",UK,VAT,Active
+R081,James Inc,Café,121,Indian,"Studio 68
+Smith terrace
+West Susan
+N4 5SR",UK,VAT,Under Maintenance
+R082,"Williams, Andrews and Cook",Café,137,Mexican,"Studio 75Z
+Roberts stream
+Fergusonburgh
+M5B 5NN",UK,VAT,Active
+R083,Foster-Pickering,Fine Dining,137,Chinese,"Studio 0
+Richards mews
+Ruthton
+S5 0FZ",UK,VAT,Active
+R084,"Porter, Howells and Rice",Bistro,74,British,"Studio 9
+Rachael drives
+Wellsstad
+TA19 8QR",UK,VAT,Active
+R085,Brooks-Smith,Café,37,Thai,"278 Johnston crest
+Elliotmouth
+M73 2DT",UK,VAT,Inactive
+R086,Sutton Group,Café,60,Mediterranean,"Studio 51J
+Ball vista
+Lake Carolyn
+RH2N 1HF",UK,VAT,Under Maintenance
+R087,Pearson Inc,Café,176,Italian,"Studio 8
+Molly corners
+West Patriciafort
+S6W 2PD",UK,VAT,Under Maintenance
+R088,Hall-Weston,Bistro,96,Chinese,"6 Harry path
+West Roger
+N35 1LH",UK,VAT,Active
+R089,"Andrews, Robertson and Johnson",Café,49,Chinese,"922 Gray port
+Port Matthewland
+M3 9AU",UK,VAT,Under Maintenance
+R090,"Kaur, Graham and Atkins",Bistro,59,British,"Flat 71S
+Charles mill
+Jonesborough
+PL2 5QR",UK,VAT,Inactive
+R091,Carter PLC,Bistro,73,Mexican,"Flat 71
+Power divide
+North Gregoryfurt
+S3W 5YP",UK,VAT,Active
+R092,Miller Group,Café,149,Mediterranean,"Flat 70f
+Lowe garden
+New Jay
+B4 9UN",UK,VAT,Inactive
+R093,"Bailey, Dean and Macdonald",Fine Dining,43,Japanese,"Studio 5
+Joanne center
+West Andrea
+BS6 8LZ",UK,VAT,Inactive
+R094,"Talbot, Clarke and Glover",Fine Dining,20,Mexican,"Studio 52
+Mandy pass
+Knightton
+G5 8TF",UK,VAT,Active
+R095,"Lawrence, Davidson and Begum",Café,61,Mediterranean,"94 O'Sullivan pass
+Waltersport
+TW05 1SY",UK,VAT,Under Maintenance
+R096,Roberts-Wood,Buffet,163,Italian,"Flat 99o
+Carole neck
+New Harriet
+PR6E 0YE",UK,VAT,Active
+R097,Brown LLC,Fine Dining,196,Indian,"36 Wong street
+Lake Ashleyhaven
+N78 5GT",UK,VAT,Under Maintenance
+R098,"Ward, Nixon and Clements",Fine Dining,114,Indian,"Flat 34
+Wilson hills
+Geraldineborough
+SO7N 5XL",UK,VAT,Inactive
+R099,Blake-Davies,Fast Food,30,British,"Flat 24c
+Nolan common
+Angelaview
+LS3H 8LF",UK,VAT,Inactive
+R100,Richards PLC,Fine Dining,111,Thai,"8 Kim fort
+North Amymouth
+LN1X 0XG",UK,VAT,Under Maintenance
